@@ -1,4 +1,4 @@
-# StaluKoop Community Health Files
+# StaLuKoop Community Health Files
 
 This repository contains community health files for the organization's repositories.
 

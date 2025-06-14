@@ -28,7 +28,7 @@
 
 *Delete any item in the following checklist if not appropriate.*
 
-- [ ] My code follows the [Contributing Guidelines](https://github.com/StaluKoop/.github/blob/main/CONTRIBUTING.md) of this project.
+- [ ] My code follows the [Contributing Guidelines](https://github.com/StaLuKoop/.github/blob/main/CONTRIBUTING.md) of this project.
 - [ ] I have commented my code in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] I have added tests that prove my fix is effective or that my feature works.
